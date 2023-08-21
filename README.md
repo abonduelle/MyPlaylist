@@ -1,4 +1,5 @@
 # MyPlaylist
 MyPlayList is a collaborative wishlist of songs for the animation of a party
 Written with PHP
-and this is the main branch version of this file, really
+and this is the develop2 version of this file
+git
